@@ -1,9 +1,21 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charest ="uft=8">
-<meta name ="description" content " photography webiste">
-<title> Basic html document</title>
-<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="creating a photographers website
+	 Site> 
+
+	<link rel="stylesheet" href="css/styles.css">
+</head>
 <body>
-<h1>
+	<div class="main-content">
+		
+		<div id="nav" class="clear">
+			<div class="logo"><img src="img/logo-company.png" alt="Web Development Logo"></div>
+			<div class="nav-list">
+				<ul class="navbar">
+					<li><a href="#about">About</a></li>
+					<li><a href="#blog">Blog</a></li>
+					<li><a href="#services">Services</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
