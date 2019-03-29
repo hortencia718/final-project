@@ -1,0 +1,31 @@
+<!doctype html>
+  <html lang="en">
+    <head>
+      
+    <meta charset="UTF-8">
+    <meta name="author" content="hortencia cisneros">
+    <meta name="keywords" content="website,photography">
+    <meta name="description" content="web design,website,photography">
+    
+    <!-- Responsive Design tag -->
+     <meta name="viewport" content="width=device-width">
+     <title>hortencia cisneros photography</title>
+    <link rel="stylesheet" href="css/styles.css">
+    
+    
+    
+    
+</head>
+<body>
+  <div class="main content">
+    <div id= nav class="clear">
+      <div class= "logo">
+        <img src="img/stills/logows3" jpg alt="logows3jpg">
+      </div>
+      
+    </div>
+  
+    
+</body>
+</html>
+    
