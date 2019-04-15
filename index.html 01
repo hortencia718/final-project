@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>website</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css">
+   <link href="https://fonts.googleapis.com/css?family=Muli/Noto+Sans/Raleway" rel="stylesheet">
+    <script src="script.js"></script>
+  
+  
+  <body>
+
+   <!-- <id=home><!--add id="home to call narbar object-->
+
+         <div class="main content"></div>
+          <div class="logo">
+           <img src="logoname.jpg" alt="logoname">
+            </div>
+       
+  <div id= "container">  
+ <div class="img-container">
+   <img src="728.jpg" alt="728" style="width:80%">
+      <div class="hero-image">
+        <div class="hero-text">
+          <div class="centered">
+          <h1 style= "font-size:20px photographer"</h1>
+            <p>food, travel, stills</p>
+            </div>
+      </div>
+    </div>
+  </div>
+ </div>
+  <p>page content..</p>
+
+
+
+
+
+      <div class="nav-list"></div>
+        <ul
+     id="navbarUL" class="navbar">
+     <!--add id="navbarUL" to allow javascrript to dynamically append <li> -->
+       <!--block comment the current li -->
+    <!--
+       <li><a herf="#home">Home</a></li>
+       <li><a href="#food">Food</a></li>
+       <li><a href="#travel">Travel</a></li>
+       <li><a href="#stills">Stills</a></li>
+       <li><a href="#contact">Contact</a></li>
+      
+        </ul>
+  <!-->
+
+            <section class="image container">
+                <h2>Portfolio</h2>
+        <div id="gallery container class= clear">
+        </div>
+            <div>
+            <div class="text">
+             <div class="row">
+            <div class="column">
+                  <img src="3137.jpg" alt="3137" style="width:30%">
+            <div class="column">
+                 <img src="sands853.jpg" alt="sands853" style="width:30%">
+            <div class="column">
+                 <img src="3305.jpg" alt="3305" style="width:30%">
+            <div class= "column">
+                 <img src="92836.jpg" alt="92836" style="width:30%"> 
+              <p><a href="html_image."
+          <h2>photography</h2>
+          <p><span>Food Travel</span><p>Stills</p>
+              </section>
+          
+          <div class="content">
+            <h2>recent work</h2>
+            <div class
+      
+
+     </div>
+     </div>
+      </div>
+    </div>
+    </div>
+    </div>
+      </div>
+    </head>
+  </body>
+</html>
